@@ -2861,7 +2861,7 @@ input, select, textarea {
   }
 
   .tiles article {
-    width: 100% !important; /* 1 item per row */
+    width: 50% !important; /* 1 item per row */
     height: 20em; /* Fixed height for responsiveness */
   }
 }
